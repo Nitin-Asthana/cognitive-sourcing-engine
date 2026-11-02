@@ -1,8 +1,8 @@
 # Cognitive Sourcing Engine
 
-*Natural-language intent-to-query discovery with a hybrid rule-based + GPT engine.*
+*Intent-to-query discovery with a hybrid rule-based + GPT engine.*
 
-A full-stack demo that reimagines B2B textile sourcing as a fast, intelligent
+Full-stack demo that reimagines B2B textile sourcing as a fast, intelligent
 discovery experience. It turns natural-language queries into structured,
 filtered product results — with an optional GPT-powered conversational
 assistant layered on top.
