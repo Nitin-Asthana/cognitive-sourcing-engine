@@ -7,10 +7,6 @@ discovery experience. It turns natural-language queries into structured,
 filtered product results — with an optional GPT-powered conversational
 assistant layered on top.
 
-It runs **out of the box with no credentials, no API keys, and no secrets**
-using a built-in rule-based engine, and can be optionally upgraded to a
-GPT model via Azure OpenAI.
-
 ---
 
 ## 📑 Table of Contents
@@ -39,9 +35,6 @@ requirements in plain language and instantly get matching products, a clear
 breakdown of how the request was interpreted, compatible component suggestions,
 and a grounded assistant to compare options — turning manual catalog work into
 a conversation.
-
-The app is engine-agnostic: it works fully offline with a deterministic
-rule-based parser, and transparently upgrades to a GPT model when configured.
 
 ---
 
