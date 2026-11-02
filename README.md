@@ -31,7 +31,7 @@ GPT model via Azure OpenAI.
 
 ---
 
-## � Business Case
+## Business Case
 
 Sourcing and procurement teams lose time translating what they need into rigid
 catalog filters and SKU codes. The Cognitive Sourcing Engine lets them describe
@@ -192,7 +192,7 @@ At load time the backend derives `price_low`/`price_high` from each
 
 ---
 
-## � Engineering & Operational Details
+## Engineering & Operational Details
 
 Technical behaviors worth calling out:
 
@@ -224,7 +224,7 @@ Technical behaviors worth calling out:
 
 ---
 
-## �🔒 Security
+## 🔒 Security
 
 - **No API keys, secrets, passwords, or connection strings** are stored anywhere
   in this repository.
