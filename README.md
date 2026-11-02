@@ -262,9 +262,7 @@ The app runs locally on the default Next.js port (`3000`).
 
 ---
 
-## ⚙️ Optional: enable GPT (Azure OpenAI)
-
-The app works great without this. To enable the LLM engine:
+## ⚙️ Enable GPT (Azure OpenAI)
 
 1. `cd backend && cp .env.example .env`
 2. Set `MODE=live` and add your `AZURE_OPENAI_ENDPOINT` in the `.env` file.
